@@ -1,0 +1,14 @@
+plugins {
+	id 'java'
+}
+
+version 'gal-1.0.0'
+sourceCompatibility = 1.8
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  implementation 'JFROG-1.0-Gal-Snapshot'
+}
