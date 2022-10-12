@@ -7,8 +7,9 @@ sourceCompatibility = 1.8
 
 repositories {
   mavenCentral()
+  
 }
 
 dependencies {
-  implementation 'JFROG-1.0-Gal-Snapshot'
+  implementation 'org.gal:poofygradle:1.1'
 }
