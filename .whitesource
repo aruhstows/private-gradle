@@ -3,13 +3,13 @@
   "hostRules": [
 {
 "matchHost": "https://sttr.jfrog.io/artifactory",
-"hostType": "gradle",
+"hostType": "maven",
 "userName": "g.d.doron@gmail.com",
 "encrypted": {
 "password": "wcBMA8xOaBJvzJNbAQf+OhYRouDHI4nh3RtUbp8hj353rQAV31hic2uSxfCj8QEcmpx3RTWcAeq44yj/o4XzLnZk0JitDKycdWLXnzq+jF0e62NTH/CeLza51kf+7berXymOLKuwSadbwMkMdrIQoxfuKF0WQL03YG0L1WUrIZXJD3/7puvlsAgXwLpTYqayVlrJBp7aWRnMnTCgAlpx9qYeGEBI2GiP9VFwGaGIwp/Wuf2TBVtm70/achYMmfOuUdSXsM8TMWxLgmnI1+rayQbqelSQh7BH9zjBtFh4onO06R5zJWVoPHM8mY+cphj1qzcShdIQbis+Syp2/oqTtJfZ3P87usmX5hZXTEkOGtJrAXeg4DI/37cGHwL6iMyy+kHHADmQrfp68Vh0S9oaq1i1GUrkyblECa41IMiyRe251OTNNE7an28on8drzpgG4/qeL6125FOeNvH1a1cTnDmB9FbL70ydkfJNbiT4+KRvJa6tYZTGLF/FQAQ"
-}
-}
-]
+      }
+    }
+  ]
 }
 
 
